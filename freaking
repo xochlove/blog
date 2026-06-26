@@ -22,4 +22,4 @@ a {
 a:hover {
   color: #00ffcc;
   text-decoration: underline; /* Subrayado al pasar el mouse */
-	}
+}
